@@ -1,0 +1,18 @@
+---
+ name: DataImport.js Demo
+ description: Simple CSV import with Hands
+ authors:
+   - Anton Burnashev
+ resources:
+   - https://cdn.jsdelivr.net/gh/burnash/dataimport@master/vendor_modules/handsontable.full.css
+   - https://cdn.jsdelivr.net/gh/burnash/dataimport@master/src/css/dataimport.css
+   - https://cdn.jsdelivr.net/gh/burnash/dataimport@master/vendor_modules/jquery.min.js
+   - https://cdn.jsdelivr.net/gh/burnash/dataimport@master/vendor_modules/handsontable.full.js
+   - https://cdn.jsdelivr.net/gh/burnash/dataimport@master/vendor_modules/papaparse.js
+   - https://cdn.jsdelivr.net/gh/burnash/dataimport@master/vendor_modules/fuse.js
+   - https://cdn.jsdelivr.net/gh/burnash/dataimport@master/src/scripts/sheet.js
+   - https://cdn.jsdelivr.net/gh/burnash/dataimport@master/src/scripts/dataimport.js
+   - https://cdn.jsdelivr.net/gh/burnash/dataimport@master/src/scripts/validators.js
+   - https://cdn.jsdelivr.net/gh/burnash/dataimport@master/src/scripts/dropfile.js
+ normalize_css: no
+ load_type: d
